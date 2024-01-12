@@ -1,0 +1,30 @@
+# Laravel specific
+/vendor
+/node_modules
+.env
+.env.*
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+
+# Laravel Mix
+/public/css/
+/public/js/
+/public/mix-manifest.json
+/public/hot
+/public/storage
+/storage/*.key
+/storage/*.key.pub
+/storage/*.pem
+
+# PhpStorm
+.idea/
+
+# Code editor files
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db
